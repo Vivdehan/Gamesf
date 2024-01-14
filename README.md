@@ -1,4 +1,4 @@
-# Gamesf
+# Guess the followers Game
 Games using Python
 Higher Lower Game
 Overview
